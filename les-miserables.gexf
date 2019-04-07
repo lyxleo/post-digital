@@ -630,7 +630,7 @@
       <edge id="0" source="1" target="0">
         <attvalues></attvalues>
       </edge>
-      <edge id="1" source="2" target="0" weight="8.0">
+      <edge id="1" source="2" target="0" weight="100.0">
         <attvalues></attvalues>
       </edge>
       <edge id="2" source="3" target="0" weight="10.0">
