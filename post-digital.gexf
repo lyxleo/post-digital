@@ -254,6 +254,7 @@
     <edges>
       <edge id="0" source="16" target="0">
         <attvalues></attvalues>
+        <viz:size value="100.0"></viz:size>
       </edge>
       <edge id="1" source="16" target="1">
         <attvalues></attvalues>
