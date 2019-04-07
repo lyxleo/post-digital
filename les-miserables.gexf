@@ -629,7 +629,7 @@
     <edges>
       <edge id="0" source="1" target="0">
         <attvalues></attvalues>
-        <viz:size value="20.457146"></viz:size>
+        <viz:size value="200"></viz:size>
       </edge>
       <edge id="1" source="2" target="0" weight="100.0">
         <attvalues></attvalues>
