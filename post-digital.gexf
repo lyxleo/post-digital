@@ -140,7 +140,7 @@
       </node>
       <node id="16" label="Tremble Tremble (2018) Jesse Jones">
         <attvalues>
-          <attvalue for="modularity_class" value="2"></attvalue>
+          <attvalue for="modularity_class" value="3"></attvalue>
         </attvalues>
         <viz:size value="30.0"></viz:size>
         <viz:position x="-450" y="-200" z="0.0"></viz:position>
@@ -148,7 +148,7 @@
       </node>
       <node id="17" label="20:50 (1987) Richard Wilson">
         <attvalues>
-          <attvalue for="modularity_class" value="2"></attvalue>
+          <attvalue for="modularity_class" value="4"></attvalue>
         </attvalues>
         <viz:size value="30.0"></viz:size>
         <viz:position x="-400" y="-450" z="0.0"></viz:position>
@@ -156,7 +156,7 @@
       </node>
       <node id="18" label="360° Illusion V (2018) Jeppe Hein">
         <attvalues>
-          <attvalue for="modularity_class" value="2"></attvalue>
+          <attvalue for="modularity_class" value="5"></attvalue>
         </attvalues>
         <viz:size value="30.0"></viz:size>
         <viz:position x="-300" y="-700" z="0.0"></viz:position>
@@ -164,7 +164,7 @@
       </node>
       <node id="19" label="WeltenLinie (2017) Alicja Kwade">
         <attvalues>
-          <attvalue for="modularity_class" value="2"></attvalue>
+          <attvalue for="modularity_class" value="6"></attvalue>
         </attvalues>
         <viz:size value="30.0"></viz:size>
         <viz:position x="-400" y="-400" z="0.0"></viz:position>
@@ -172,7 +172,7 @@
       </node>
       <node id="20" label="Narcissus Garden (1966–2018) Yayoi Kusama">
         <attvalues>
-          <attvalue for="modularity_class" value="2"></attvalue>
+          <attvalue for="modularity_class" value="7"></attvalue>
         </attvalues>
         <viz:size value="30.0"></viz:size>
         <viz:position x="-350" y="-350" z="0.0"></viz:position>
@@ -180,7 +180,7 @@
       </node>
       <node id="21" label="Untitled (Golden) (1995) Felix Gonzalez-Torres">
         <attvalues>
-          <attvalue for="modularity_class" value="2"></attvalue>
+          <attvalue for="modularity_class" value="8"></attvalue>
         </attvalues>
         <viz:size value="30.0"></viz:size>
         <viz:position x="-700" y="-250" z="0.0"></viz:position>
@@ -188,7 +188,7 @@
       </node>
       <node id="22" label="[When spirituality was a baby] (2018) Dineo Seshee Bopape">
         <attvalues>
-          <attvalue for="modularity_class" value="2"></attvalue>
+          <attvalue for="modularity_class" value="9"></attvalue>
         </attvalues>
         <viz:size value="30.0"></viz:size>
         <viz:position x="-150" y="-750" z="0.0"></viz:position>
@@ -196,7 +196,7 @@
       </node>
       <node id="23" label="Ice Watch (2014) Olafur Eliasson">
         <attvalues>
-          <attvalue for="modularity_class" value="2"></attvalue>
+          <attvalue for="modularity_class" value="10"></attvalue>
         </attvalues>
         <viz:size value="30.0"></viz:size>
         <viz:position x="100" y="-500" z="0.0"></viz:position>
@@ -204,7 +204,7 @@
       </node>
       <node id="24" label="La Plissure du Texte (1983) Roy Ascott">
         <attvalues>
-          <attvalue for="modularity_class" value="2"></attvalue>
+          <attvalue for="modularity_class" value="11"></attvalue>
         </attvalues>
         <viz:size value="30.0"></viz:size>
         <viz:position x="700" y="350" z="0.0"></viz:position>
@@ -212,7 +212,7 @@
       </node>
       <node id="25" label="Forkbomb (2002) Jaromil Rojo">
         <attvalues>
-          <attvalue for="modularity_class" value="2"></attvalue>
+          <attvalue for="modularity_class" value="12"></attvalue>
         </attvalues>
         <viz:size value="30.0"></viz:size>
         <viz:position x="650" y="300" z="0.0"></viz:position>
@@ -220,7 +220,7 @@
       </node>
       <node id="26" label="My Generation (2010) Eva and Franco Mattes">
         <attvalues>
-          <attvalue for="modularity_class" value="2"></attvalue>
+          <attvalue for="modularity_class" value="13"></attvalue>
         </attvalues>
         <viz:size value="30.0"></viz:size>
         <viz:position x="420" y="160" z="0.0"></viz:position>
@@ -228,7 +228,7 @@
       </node>
       <node id="27" label="Shibboleth I (2007) Doris Salcedo">
         <attvalues>
-          <attvalue for="modularity_class" value="2"></attvalue>
+          <attvalue for="modularity_class" value="14"></attvalue>
         </attvalues>
         <viz:size value="30.0"></viz:size>
         <viz:position x="-480" y="-807" z="0.0"></viz:position>
@@ -236,7 +236,7 @@
       </node>
       <node id="28" label="Alia: Zǔ tài (2018) Marco Donnarumma">
         <attvalues>
-          <attvalue for="modularity_class" value="2"></attvalue>
+          <attvalue for="modularity_class" value="15"></attvalue>
         </attvalues>
         <viz:size value="30.0"></viz:size>
         <viz:position x="50" y="400" z="0.0"></viz:position>
@@ -244,7 +244,7 @@
       </node>
       <node id="29" label="Golden Shield Music (2009) Marco Donnarumma">
         <attvalues>
-          <attvalue for="modularity_class" value="2"></attvalue>
+          <attvalue for="modularity_class" value="16"></attvalue>
         </attvalues>
         <viz:size value="30.0"></viz:size>
         <viz:position x="700" y="50" z="0.0"></viz:position>
