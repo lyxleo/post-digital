@@ -150,7 +150,7 @@
           <attvalue for="modularity_class" value="2"></attvalue>
         </attvalues>
         <viz:size value="30.0"></viz:size>
-        <viz:position x="-400" y="-600" z="0.0"></viz:position>
+        <viz:position x="-400" y="-450" z="0.0"></viz:position>
         <viz:color r="236" g="81" b="72"></viz:color>
       </node>
       <node id="18" label="360° Illusion V (2018) Jeppe Hein">
