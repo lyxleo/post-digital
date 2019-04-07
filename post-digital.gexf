@@ -1,0 +1,608 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<gexf xmlns="http://www.gexf.net/1.2draft" version="1.2" xmlns:viz="http://www.gexf.net/1.2draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd">
+  <meta lastmodifieddate="2014-01-30">
+    <creator>Gephi 0.8.1</creator>
+    <description></description>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static">
+    <attributes class="node" mode="static">
+      <attribute id="modularity_class" title="Modularity Class" type="integer"></attribute>
+    </attributes>
+    <nodes>
+      <node id="0" label="Site-specific">
+        <attvalues>
+          <attvalue for="modularity_class" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="30.0"></viz:size>
+        <viz:position x="-266.82776" y="299.6904" z="0.0"></viz:position>
+        <viz:color r="235" g="81" b="72"></viz:color>
+      </node>
+      <node id="1" label="Interactive">
+        <attvalues>
+          <attvalue for="modularity_class" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="30.0"></viz:size>
+        <viz:position x="-418.08344" y="446.8853" z="0.0"></viz:position>
+        <viz:color r="236" g="81" b="72"></viz:color>
+      </node>
+      <node id="2" label="Hybrid">
+        <attvalues>
+          <attvalue for="modularity_class" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="30.0"></viz:size>
+        <viz:position x="-212.76357" y="245.29176" z="0.0"></viz:position>
+        <viz:color r="236" g="81" b="72"></viz:color>
+      </node>
+      <node id="3" label="Net. art">
+        <attvalues>
+          <attvalue for="modularity_class" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="30.0"></viz:size>
+        <viz:position x="-242.82404" y="235.26283" z="0.0"></viz:position>
+        <viz:color r="236" g="81" b="72"></viz:color>
+      </node>
+      <node id="4" label="Space">
+        <attvalues>
+          <attvalue for="modularity_class" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="20.0"></viz:size>
+        <viz:position x="-379.30386" y="429.06424" z="0.0"></viz:position>
+        <viz:color r="236" g="81" b="72"></viz:color>
+      </node>
+      <node id="5" label="Time">
+        <attvalues>
+          <attvalue for="modularity_class" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="20.0"></viz:size>
+        <viz:position x="-417.26337" y="406.03506" z="0.0"></viz:position>
+        <viz:color r="236" g="81" b="72"></viz:color>
+      </node>
+      <node id="6" label="Installation">
+        <attvalues>
+          <attvalue for="modularity_class" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="20.0"></viz:size>
+        <viz:position x="-332.6012" y="485.16974" z="0.0"></viz:position>
+        <viz:color r="236" g="81" b="72"></viz:color>
+      </node>
+      <node id="7" label="Performance">
+        <attvalues>
+          <attvalue for="modularity_class" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="20.0"></viz:size>
+        <viz:position x="-382.69568" y="475.09113" z="0.0"></viz:position>
+        <viz:color r="236" g="81" b="72"></viz:color>
+      </node>
+      <node id="8" label="Digital">
+        <attvalues>
+          <attvalue for="modularity_class" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="20.0"></viz:size>
+        <viz:position x="-320.384" y="387.17325" z="0.0"></viz:position>
+        <viz:color r="236" g="81" b="72"></viz:color>
+      </node>
+      <node id="9" label="Analogue">
+        <attvalues>
+          <attvalue for="modularity_class" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="20.0"></viz:size>
+        <viz:position x="-344.39832" y="451.16772" z="0.0"></viz:position>
+        <viz:color r="236" g="81" b="72"></viz:color>
+      </node>
+      <node id="10" label="Collaborative">
+        <attvalues>
+          <attvalue for="modularity_class" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="20.0"></viz:size>
+        <viz:position x="-89.34107" y="234.56128" z="0.0"></viz:position>
+        <viz:color r="236" g="81" b="72"></viz:color>
+      </node>
+      <node id="11" label="Robotic">
+        <attvalues>
+          <attvalue for="modularity_class" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="20.0"></viz:size>
+        <viz:position x="-87.93029" y="-6.8120565" z="0.0"></viz:position>
+        <viz:color r="236" g="81" b="72"></viz:color>
+      </node>
+      <node id="12" label="Virtual">
+        <attvalues>
+          <attvalue for="modularity_class" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="20.0"></viz:size>
+        <viz:position x="-339.77908" y="-184.69139" z="0.0"></viz:position>
+        <viz:color r="236" g="81" b="72"></viz:color>
+      </node>
+      <node id="13" label="Internet-based">
+        <attvalues>
+          <attvalue for="modularity_class" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="20.0"></viz:size>
+        <viz:position x="-194.31313" y="178.55301" z="0.0"></viz:position>
+        <viz:color r="236" g="81" b="72"></viz:color>
+      </node>
+      <node id="14" label="Biological">
+        <attvalues>
+          <attvalue for="modularity_class" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="20.0"></viz:size>
+        <viz:position x="-158.05168" y="201.99768" z="0.0"></viz:position>
+        <viz:color r="236" g="81" b="72"></viz:color>
+      </node>
+      <node id="15" label="Tech-heavy">
+        <attvalues>
+          <attvalue for="modularity_class" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="20.0"></viz:size>
+        <viz:position x="-127.701546" y="242.55057" z="0.0"></viz:position>
+        <viz:color r="236" g="81" b="72"></viz:color>
+      </node>
+      <node id="16" label="Tremble Tremble (2018) Jesse Jones">
+        <attvalues>
+          <attvalue for="modularity_class" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-385.2226" y="-393.5572" z="0.0"></viz:position>
+        <viz:color r="236" g="81" b="72"></viz:color>
+      </node>
+      <node id="17" label="20:50 (1987) Richard Wilson">
+        <attvalues>
+          <attvalue for="modularity_class" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-516.55884" y="-393.98975" z="0.0"></viz:position>
+        <viz:color r="236" g="81" b="72"></viz:color>
+      </node>
+      <node id="18" label="360° Illusion V (2018) Jeppe Hein">
+        <attvalues>
+          <attvalue for="modularity_class" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-464.79382" y="-493.57944" z="0.0"></viz:position>
+        <viz:color r="236" g="81" b="72"></viz:color>
+      </node>
+      <node id="19" label="WeltenLinie (2017) Alicja Kwade">
+        <attvalues>
+          <attvalue for="modularity_class" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-515.1624" y="-456.9891" z="0.0"></viz:position>
+        <viz:color r="236" g="81" b="72"></viz:color>
+      </node>
+      <node id="20" label="Narcissus Garden (1966–2018) Yayoi Kusama">
+        <attvalues>
+          <attvalue for="modularity_class" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-408.12122" y="-464.5048" z="0.0"></viz:position>
+        <viz:color r="236" g="81" b="72"></viz:color>
+      </node>
+      <node id="21" label="Untitled (Golden) (1995) Felix Gonzalez-Torres">
+        <attvalues>
+          <attvalue for="modularity_class" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-456.44113" y="-425.13303" z="0.0"></viz:position>
+        <viz:color r="236" g="81" b="72"></viz:color>
+      </node>
+      <node id="22" label="[When spirituality was a baby] (2018) Dineo Seshee Bopape">
+        <attvalues>
+          <attvalue for="modularity_class" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-459.1107" y="-362.5133" z="0.0"></viz:position>
+        <viz:color r="236" g="81" b="72"></viz:color>
+      </node>
+      <node id="23" label="Ice Watch (2014) Olafur Eliasson">
+        <attvalues>
+          <attvalue for="modularity_class" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-313.42786" y="-289.44803" z="0.0"></viz:position>
+        <viz:color r="236" g="81" b="72"></viz:color>
+      </node>
+      <node id="24" label="La Plissure du Texte (1983) Roy Ascott">
+        <attvalues>
+          <attvalue for="modularity_class" value="7"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="4.6313396" y="-273.8517" z="0.0"></viz:position>
+        <viz:color r="236" g="81" b="72"></viz:color>
+      </node>
+      <node id="25" label="Forkbomb (2002) Jaromil Rojo">
+        <attvalues>
+          <attvalue for="modularity_class" value="7"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="82.80825" y="-203.1144" z="0.0"></viz:position>
+        <viz:color r="236" g="81" b="72"></viz:color>
+      </node>
+      <node id="26" label="Alia: Zǔ tài (2018) Marco Donnarumma">
+        <attvalues>
+          <attvalue for="modularity_class" value="6"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="78.64646" y="-31.512747" z="0.0"></viz:position>
+        <viz:color r="236" g="81" b="72"></viz:color>
+      </node>
+      <node id="27" label="My Generation (2010) Eva and Franco Mattes">
+        <attvalues>
+          <attvalue for="modularity_class" value="7"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-81.46074" y="-204.20204" z="0.0"></viz:position>
+        <viz:color r="236" g="81" b="72"></viz:color>
+      </node>
+      <node id="28" label="Shibboleth I (2007) Doris Salcedo">
+        <attvalues>
+          <attvalue for="modularity_class" value="4"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-225.73984" y="82.41631" z="0.0"></viz:position>
+        <viz:color r="236" g="81" b="72"></viz:color>
+      </node>
+    </nodes>
+    <edges>
+      <edge id="0" source="16" target="0">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="1" source="16" target="1">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="2" source="16" target="2">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="3" source="16" target="4">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="4" source="16" target="5">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="5" source="16" target="6">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="6" source="16" target="7">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="7" source="16" target="8">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="8" source="16" target="9" weight="2.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="9" source="16" target="10">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="10" source="16" target="15" weight="5.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="11" source="17" target="0" weight="3.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="12" source="17" target="1">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="13" source="17" target="2">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="14" source="17" target="4">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="15" source="17" target="5">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="16" source="17" target="6">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="17" source="17" target="9">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="18" source="17" target="10" weight="4.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="19" source="18" target="0" weight="4.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="20" source="18" target="1" weight="4.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="21" source="18" target="2" weight="4.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="22" source="18" target="4" weight="4.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="23" source="18" target="5" weight="4.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="24" source="18" target="6" weight="3.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="25" source="18" target="9" weight="3.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="26" source="18" target="10" weight="3.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="27" source="19" target="0" weight="4.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="28" source="19" target="1" weight="3.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="29" source="19" target="2" weight="3.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="30" source="19" target="4" weight="3.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="31" source="19" target="5" weight="3.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="32" source="19" target="6" weight="5.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="33" source="19" target="7" weight="3.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="34" source="19" target="9" weight="3.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="35" source="19" target="10" weight="3.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="36" source="20" target="0" weight="3.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="37" source="20" target="1" weight="4.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="38" source="20" target="2" weight="4.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="47" source="20" target="4" weight="9.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="46" source="20" target="5" weight="2.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="39" source="20" target="6" weight="3.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="40" source="20" target="9" weight="3.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="41" source="20" target="10" weight="3.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="42" source="21" target="0" weight="3.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="43" source="21" target="1" weight="4.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="44" source="21" target="2" weight="4.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="45" source="21" target="4" weight="4.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="46" source="21" target="5" weight="7.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="47" source="21" target="6" weight="2.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="48" source="21" target="9" weight="12.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="49" source="21" target="10">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="50" source="22" target="0">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="51" source="22" target="1">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="52" source="22" target="2">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="53" source="22" target="4">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="54" source="22" target="5">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="55" source="22" target="6">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="56" source="22" target="8">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="57" source="22" target="9">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="58" source="22" target="10">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="59" source="22" target="14">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="60" source="23" target="0">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="61" source="23" target="1">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="62" source="23" target="2">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="63" source="23" target="4">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="64" source="23" target="5">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="65" source="23" target="6">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="66" source="23" target="7">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="67" source="23" target="9">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="68" source="23" target="10">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="69" source="24" target="0">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="70" source="24" target="1">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="71" source="24" target="2">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="72" source="24" target="3">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="73" source="24" target="4">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="74" source="24" target="5">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="75" source="24" target="6">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="76" source="24" target="7">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="77" source="24" target="8">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="78" source="24" target="10">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="79" source="24" target="12">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="80" source="24" target="13">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="81" source="24" target="15">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="82" source="25" target="0">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="83" source="25" target="1">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="84" source="25" target="2">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="85" source="25" target="3">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="86" source="25" target="4">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="87" source="25" target="5">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="88" source="25" target="6">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="89" source="25" target="7">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="90" source="25" target="8">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="91" source="25" target="10">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="92" source="25" target="13">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="93" source="25" target="15">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="94" source="26" target="0">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="95" source="26" target="1">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="96" source="26" target="2">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="97" source="26" target="3">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="98" source="26" target="4">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="99" source="26" target="5">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="100" source="26" target="6">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="101" source="26" target="7">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="102" source="26" target="8">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="103" source="26" target="9">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="104" source="26" target="10">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="105" source="26" target="12">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="106" source="26" target="13">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="107" source="26" target="15">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="108" source="27" target="0">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="109" source="27" target="1">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="110" source="27" target="2">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="111" source="27" target="4">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="112" source="27" target="5">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="113" source="27" target="6">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="114" source="27" target="8">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="115" source="27" target="9">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="116" source="27" target="10">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="117" source="27" target="13">
+        <attvalues></attvalues>
+      </edge>
+    </edges>
+  </graph>
+</gexf>
