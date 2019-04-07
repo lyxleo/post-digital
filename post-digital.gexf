@@ -12,6 +12,7 @@
       <node id="0" label="Site-specific">
         <attvalues>
           <attvalue for="modularity_class" value="0"></attvalue>
+          <attvalue for="0" value="http://www.baidu.com"></attvalue>
         </attvalues>
         <viz:size value="100.0"></viz:size>
         <viz:position x="-600" y="-600" z="0.0"></viz:position>
