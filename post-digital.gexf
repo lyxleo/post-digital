@@ -70,7 +70,7 @@
           <attvalue for="modularity_class" value="1"></attvalue>
         </attvalues>
         <viz:size value="50.0"></viz:size>
-        <viz:position x="200" y="380" z="0.0"></viz:position>
+        <viz:position x="200" y="-380" z="0.0"></viz:position>
         <viz:color r="236" g="81" b="72"></viz:color>
       </node>
       <node id="8" label="Digital">
@@ -142,7 +142,7 @@
           <attvalue for="modularity_class" value="2"></attvalue>
         </attvalues>
         <viz:size value="30.0"></viz:size>
-        <viz:position x="-385.2226" y="-393.5572" z="0.0"></viz:position>
+        <viz:position x="-450" y="-200" z="0.0"></viz:position>
         <viz:color r="236" g="81" b="72"></viz:color>
       </node>
       <node id="17" label="20:50 (1987) Richard Wilson">
@@ -150,7 +150,7 @@
           <attvalue for="modularity_class" value="2"></attvalue>
         </attvalues>
         <viz:size value="30.0"></viz:size>
-        <viz:position x="-516.55884" y="-393.98975" z="0.0"></viz:position>
+        <viz:position x="-400" y="-600" z="0.0"></viz:position>
         <viz:color r="236" g="81" b="72"></viz:color>
       </node>
       <node id="18" label="360° Illusion V (2018) Jeppe Hein">
@@ -158,7 +158,7 @@
           <attvalue for="modularity_class" value="2"></attvalue>
         </attvalues>
         <viz:size value="30.0"></viz:size>
-        <viz:position x="-464.79382" y="-493.57944" z="0.0"></viz:position>
+        <viz:position x="-300" y="-700" z="0.0"></viz:position>
         <viz:color r="236" g="81" b="72"></viz:color>
       </node>
       <node id="19" label="WeltenLinie (2017) Alicja Kwade">
@@ -166,7 +166,7 @@
           <attvalue for="modularity_class" value="2"></attvalue>
         </attvalues>
         <viz:size value="30.0"></viz:size>
-        <viz:position x="-515.1624" y="-456.9891" z="0.0"></viz:position>
+        <viz:position x="-400" y="-400" z="0.0"></viz:position>
         <viz:color r="236" g="81" b="72"></viz:color>
       </node>
       <node id="20" label="Narcissus Garden (1966–2018) Yayoi Kusama">
@@ -174,7 +174,7 @@
           <attvalue for="modularity_class" value="2"></attvalue>
         </attvalues>
         <viz:size value="30.0"></viz:size>
-        <viz:position x="-408.12122" y="-464.5048" z="0.0"></viz:position>
+        <viz:position x="-350" y="-350" z="0.0"></viz:position>
         <viz:color r="236" g="81" b="72"></viz:color>
       </node>
       <node id="21" label="Untitled (Golden) (1995) Felix Gonzalez-Torres">
@@ -182,7 +182,7 @@
           <attvalue for="modularity_class" value="2"></attvalue>
         </attvalues>
         <viz:size value="30.0"></viz:size>
-        <viz:position x="-456.44113" y="-425.13303" z="0.0"></viz:position>
+        <viz:position x="-700" y="-250" z="0.0"></viz:position>
         <viz:color r="236" g="81" b="72"></viz:color>
       </node>
       <node id="22" label="[When spirituality was a baby] (2018) Dineo Seshee Bopape">
@@ -190,7 +190,7 @@
           <attvalue for="modularity_class" value="2"></attvalue>
         </attvalues>
         <viz:size value="30.0"></viz:size>
-        <viz:position x="-459.1107" y="-362.5133" z="0.0"></viz:position>
+        <viz:position x="-150" y="-750" z="0.0"></viz:position>
         <viz:color r="236" g="81" b="72"></viz:color>
       </node>
       <node id="23" label="Ice Watch (2014) Olafur Eliasson">
@@ -198,7 +198,7 @@
           <attvalue for="modularity_class" value="2"></attvalue>
         </attvalues>
         <viz:size value="30.0"></viz:size>
-        <viz:position x="-313.42786" y="-289.44803" z="0.0"></viz:position>
+        <viz:position x="100" y="-500" z="0.0"></viz:position>
         <viz:color r="236" g="81" b="72"></viz:color>
       </node>
       <node id="24" label="La Plissure du Texte (1983) Roy Ascott">
@@ -206,7 +206,7 @@
           <attvalue for="modularity_class" value="2"></attvalue>
         </attvalues>
         <viz:size value="30.0"></viz:size>
-        <viz:position x="4.6313396" y="-273.8517" z="0.0"></viz:position>
+        <viz:position x="700" y="350" z="0.0"></viz:position>
         <viz:color r="236" g="81" b="72"></viz:color>
       </node>
       <node id="25" label="Forkbomb (2002) Jaromil Rojo">
@@ -214,7 +214,7 @@
           <attvalue for="modularity_class" value="2"></attvalue>
         </attvalues>
         <viz:size value="30.0"></viz:size>
-        <viz:position x="82.80825" y="-203.1144" z="0.0"></viz:position>
+        <viz:position x="650" y="300" z="0.0"></viz:position>
         <viz:color r="236" g="81" b="72"></viz:color>
       </node>
       <node id="26" label="Alia: Zǔ tài (2018) Marco Donnarumma">
@@ -222,7 +222,7 @@
           <attvalue for="modularity_class" value="2"></attvalue>
         </attvalues>
         <viz:size value="30.0"></viz:size>
-        <viz:position x="78.64646" y="-31.512747" z="0.0"></viz:position>
+        <viz:position x="420" y="160" z="0.0"></viz:position>
         <viz:color r="236" g="81" b="72"></viz:color>
       </node>
       <node id="27" label="My Generation (2010) Eva and Franco Mattes">
@@ -230,7 +230,7 @@
           <attvalue for="modularity_class" value="2"></attvalue>
         </attvalues>
         <viz:size value="30.0"></viz:size>
-        <viz:position x="-81.46074" y="-204.20204" z="0.0"></viz:position>
+        <viz:position x="-35" y="-307" z="0.0"></viz:position>
         <viz:color r="236" g="81" b="72"></viz:color>
       </node>
       <node id="28" label="Shibboleth I (2007) Doris Salcedo">
@@ -238,7 +238,7 @@
           <attvalue for="modularity_class" value="2"></attvalue>
         </attvalues>
         <viz:size value="30.0"></viz:size>
-        <viz:position x="-225.73984" y="82.41631" z="0.0"></viz:position>
+        <viz:position x="-480" y="-824" z="0.0"></viz:position>
         <viz:color r="236" g="81" b="72"></viz:color>
       </node>
     </nodes>
@@ -360,10 +360,10 @@
       <edge id="38" source="20" target="2" weight="4.0">
         <attvalues></attvalues>
       </edge>
-      <edge id="47" source="20" target="4" weight="9.0">
+      <edge id="118" source="20" target="4" weight="9.0">
         <attvalues></attvalues>
       </edge>
-      <edge id="46" source="20" target="5" weight="2.0">
+      <edge id="119" source="20" target="5" weight="2.0">
         <attvalues></attvalues>
       </edge>
       <edge id="39" source="20" target="6" weight="3.0">
