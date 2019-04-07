@@ -217,7 +217,7 @@
         <viz:position x="650" y="300" z="0.0"></viz:position>
         <viz:color r="236" g="81" b="72"></viz:color>
       </node>
-      <node id="26" label="Alia: Zǔ tài (2018) Marco Donnarumma">
+      <node id="26" label="My Generation (2010) Eva and Franco Mattes">
         <attvalues>
           <attvalue for="modularity_class" value="2"></attvalue>
         </attvalues>
@@ -225,20 +225,28 @@
         <viz:position x="420" y="160" z="0.0"></viz:position>
         <viz:color r="236" g="81" b="72"></viz:color>
       </node>
-      <node id="27" label="My Generation (2010) Eva and Franco Mattes">
+      <node id="27" label="Shibboleth I (2007) Doris Salcedo">
         <attvalues>
           <attvalue for="modularity_class" value="2"></attvalue>
         </attvalues>
         <viz:size value="30.0"></viz:size>
-        <viz:position x="-35" y="-307" z="0.0"></viz:position>
+        <viz:position x="-480" y="-807" z="0.0"></viz:position>
         <viz:color r="236" g="81" b="72"></viz:color>
       </node>
-      <node id="28" label="Shibboleth I (2007) Doris Salcedo">
+      <node id="28" label="Alia: Zǔ tài (2018) Marco Donnarumma">
         <attvalues>
           <attvalue for="modularity_class" value="2"></attvalue>
         </attvalues>
         <viz:size value="30.0"></viz:size>
-        <viz:position x="-480" y="-824" z="0.0"></viz:position>
+        <viz:position x="50" y="400" z="0.0"></viz:position>
+        <viz:color r="236" g="81" b="72"></viz:color>
+      </node>
+      <node id="29" label="Golden Shield Music (2009) Marco Donnarumma">
+        <attvalues>
+          <attvalue for="modularity_class" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="30.0"></viz:size>
+        <viz:position x="700" y="50" z="0.0"></viz:position>
         <viz:color r="236" g="81" b="72"></viz:color>
       </node>
     </nodes>
