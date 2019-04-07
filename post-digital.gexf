@@ -277,7 +277,7 @@
       <edge id="7" source="16" target="8">
         <attvalues></attvalues>
       </edge>
-      <edge id="8" source="16" target="9" weight="3000.0">
+      <edge id="8" source="16" target="9" weight="100.0">
         <attvalues></attvalues>
       </edge>
       <edge id="9" source="16" target="10">
@@ -286,7 +286,7 @@
       <edge id="10" source="16" target="15" weight="5.0">
         <attvalues></attvalues>
       </edge>
-      <edge id="11" source="17" target="0" weight="3.0">
+      <edge id="11" source="17" target="0" weight="50.0">
         <attvalues></attvalues>
       </edge>
       <edge id="12" source="17" target="1">
