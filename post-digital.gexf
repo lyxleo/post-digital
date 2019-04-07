@@ -14,7 +14,7 @@
           <attvalue for="modularity_class" value="0"></attvalue>
         </attvalues>
         <viz:size value="50.0"></viz:size>
-        <viz:position x="-266.82776" y="299.6904" z="0.0"></viz:position>
+        <viz:position x="-600" y="-600" z="0.0"></viz:position>
         <viz:color r="235" g="81" b="72"></viz:color>
       </node>
       <node id="1" label="Interactive">
@@ -22,7 +22,7 @@
           <attvalue for="modularity_class" value="0"></attvalue>
         </attvalues>
         <viz:size value="50.0"></viz:size>
-        <viz:position x="-418.08344" y="446.8853" z="0.0"></viz:position>
+        <viz:position x="600" y="-800" z="0.0"></viz:position>
         <viz:color r="236" g="81" b="72"></viz:color>
       </node>
       <node id="2" label="Hybrid">
@@ -30,7 +30,7 @@
           <attvalue for="modularity_class" value="0"></attvalue>
         </attvalues>
         <viz:size value="50.0"></viz:size>
-        <viz:position x="-212.76357" y="245.29176" z="0.0"></viz:position>
+        <viz:position x="-212.76357" y="200" z="0.0"></viz:position>
         <viz:color r="236" g="81" b="72"></viz:color>
       </node>
       <node id="3" label="Net. art">
@@ -38,7 +38,7 @@
           <attvalue for="modularity_class" value="0"></attvalue>
         </attvalues>
         <viz:size value="50.0"></viz:size>
-        <viz:position x="-242.82404" y="235.26283" z="0.0"></viz:position>
+        <viz:position x="900" y="300" z="0.0"></viz:position>
         <viz:color r="236" g="81" b="72"></viz:color>
       </node>
       <node id="4" label="Space">
