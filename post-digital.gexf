@@ -78,7 +78,7 @@
           <attvalue for="modularity_class" value="1"></attvalue>
         </attvalues>
         <viz:size value="50.0"></viz:size>
-        <viz:position x="100" y="100" z="0.0"></viz:position>
+        <viz:position x="110" y="100" z="0.0"></viz:position>
         <viz:color r="236" g="81" b="72"></viz:color>
       </node>
       <node id="9" label="Analogue">
