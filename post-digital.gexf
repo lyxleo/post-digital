@@ -13,7 +13,7 @@
         <attvalues>
           <attvalue for="modularity_class" value="0"></attvalue>
         </attvalues>
-        <viz:size value="30.0"></viz:size>
+        <viz:size value="50.0"></viz:size>
         <viz:position x="-266.82776" y="299.6904" z="0.0"></viz:position>
         <viz:color r="235" g="81" b="72"></viz:color>
       </node>
@@ -21,29 +21,29 @@
         <attvalues>
           <attvalue for="modularity_class" value="0"></attvalue>
         </attvalues>
-        <viz:size value="30.0"></viz:size>
+        <viz:size value="50.0"></viz:size>
         <viz:position x="-418.08344" y="446.8853" z="0.0"></viz:position>
         <viz:color r="236" g="81" b="72"></viz:color>
       </node>
       <node id="2" label="Hybrid">
         <attvalues>
-          <attvalue for="modularity_class" value="1"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
         </attvalues>
-        <viz:size value="30.0"></viz:size>
+        <viz:size value="50.0"></viz:size>
         <viz:position x="-212.76357" y="245.29176" z="0.0"></viz:position>
         <viz:color r="236" g="81" b="72"></viz:color>
       </node>
       <node id="3" label="Net. art">
         <attvalues>
-          <attvalue for="modularity_class" value="1"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
         </attvalues>
-        <viz:size value="30.0"></viz:size>
+        <viz:size value="50.0"></viz:size>
         <viz:position x="-242.82404" y="235.26283" z="0.0"></viz:position>
         <viz:color r="236" g="81" b="72"></viz:color>
       </node>
       <node id="4" label="Space">
         <attvalues>
-          <attvalue for="modularity_class" value="0"></attvalue>
+          <attvalue for="modularity_class" value="1"></attvalue>
         </attvalues>
         <viz:size value="20.0"></viz:size>
         <viz:position x="-379.30386" y="429.06424" z="0.0"></viz:position>
@@ -51,7 +51,7 @@
       </node>
       <node id="5" label="Time">
         <attvalues>
-          <attvalue for="modularity_class" value="0"></attvalue>
+          <attvalue for="modularity_class" value="1"></attvalue>
         </attvalues>
         <viz:size value="20.0"></viz:size>
         <viz:position x="-417.26337" y="406.03506" z="0.0"></viz:position>
@@ -59,7 +59,7 @@
       </node>
       <node id="6" label="Installation">
         <attvalues>
-          <attvalue for="modularity_class" value="0"></attvalue>
+          <attvalue for="modularity_class" value="1"></attvalue>
         </attvalues>
         <viz:size value="20.0"></viz:size>
         <viz:position x="-332.6012" y="485.16974" z="0.0"></viz:position>
@@ -67,7 +67,7 @@
       </node>
       <node id="7" label="Performance">
         <attvalues>
-          <attvalue for="modularity_class" value="0"></attvalue>
+          <attvalue for="modularity_class" value="1"></attvalue>
         </attvalues>
         <viz:size value="20.0"></viz:size>
         <viz:position x="-382.69568" y="475.09113" z="0.0"></viz:position>
@@ -75,7 +75,7 @@
       </node>
       <node id="8" label="Digital">
         <attvalues>
-          <attvalue for="modularity_class" value="0"></attvalue>
+          <attvalue for="modularity_class" value="1"></attvalue>
         </attvalues>
         <viz:size value="20.0"></viz:size>
         <viz:position x="-320.384" y="387.17325" z="0.0"></viz:position>
@@ -83,7 +83,7 @@
       </node>
       <node id="9" label="Analogue">
         <attvalues>
-          <attvalue for="modularity_class" value="0"></attvalue>
+          <attvalue for="modularity_class" value="1"></attvalue>
         </attvalues>
         <viz:size value="20.0"></viz:size>
         <viz:position x="-344.39832" y="451.16772" z="0.0"></viz:position>
@@ -203,7 +203,7 @@
       </node>
       <node id="24" label="La Plissure du Texte (1983) Roy Ascott">
         <attvalues>
-          <attvalue for="modularity_class" value="7"></attvalue>
+          <attvalue for="modularity_class" value="2"></attvalue>
         </attvalues>
         <viz:size value="10.0"></viz:size>
         <viz:position x="4.6313396" y="-273.8517" z="0.0"></viz:position>
@@ -211,7 +211,7 @@
       </node>
       <node id="25" label="Forkbomb (2002) Jaromil Rojo">
         <attvalues>
-          <attvalue for="modularity_class" value="7"></attvalue>
+          <attvalue for="modularity_class" value="2"></attvalue>
         </attvalues>
         <viz:size value="10.0"></viz:size>
         <viz:position x="82.80825" y="-203.1144" z="0.0"></viz:position>
@@ -219,7 +219,7 @@
       </node>
       <node id="26" label="Alia: Zǔ tài (2018) Marco Donnarumma">
         <attvalues>
-          <attvalue for="modularity_class" value="6"></attvalue>
+          <attvalue for="modularity_class" value="2"></attvalue>
         </attvalues>
         <viz:size value="10.0"></viz:size>
         <viz:position x="78.64646" y="-31.512747" z="0.0"></viz:position>
@@ -227,7 +227,7 @@
       </node>
       <node id="27" label="My Generation (2010) Eva and Franco Mattes">
         <attvalues>
-          <attvalue for="modularity_class" value="7"></attvalue>
+          <attvalue for="modularity_class" value="2"></attvalue>
         </attvalues>
         <viz:size value="10.0"></viz:size>
         <viz:position x="-81.46074" y="-204.20204" z="0.0"></viz:position>
@@ -235,7 +235,7 @@
       </node>
       <node id="28" label="Shibboleth I (2007) Doris Salcedo">
         <attvalues>
-          <attvalue for="modularity_class" value="4"></attvalue>
+          <attvalue for="modularity_class" value="2"></attvalue>
         </attvalues>
         <viz:size value="10.0"></viz:size>
         <viz:position x="-225.73984" y="82.41631" z="0.0"></viz:position>
