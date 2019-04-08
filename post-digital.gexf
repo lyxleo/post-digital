@@ -15,7 +15,7 @@
           <attvalue for="0" value="http://www.baidu.com"></attvalue>
         </attvalues>
         <viz:size value="120.0"></viz:size>
-        <viz:position x="-1000" y="-900" z="0.0"></viz:position>
+        <viz:position x="-1000" y="-800" z="0.0"></viz:position>
         <viz:color r="235" g="81" b="72"></viz:color>
       </node>
       <node id="1" label="Interactive">
@@ -47,7 +47,7 @@
           <attvalue for="modularity_class" value="1"></attvalue>
         </attvalues>
         <viz:size value="70.0"></viz:size>
-        <viz:position x="-250" y="-800" z="0.0"></viz:position>
+        <viz:position x="-250" y="-900" z="0.0"></viz:position>
         <viz:color r="236" g="81" b="72"></viz:color>
       </node>
       <node id="5" label="Time">
@@ -207,7 +207,7 @@
           <attvalue for="modularity_class" value="10"></attvalue>
         </attvalues>
         <viz:size value="50.0"></viz:size>
-        <viz:position x="700" y="350" z="0.0"></viz:position>
+        <viz:position x="760" y="410" z="0.0"></viz:position>
         <viz:color r="236" g="81" b="72"></viz:color>
       </node>
       <node id="25" label="Forkbomb (2002) Jaromil Rojo">
