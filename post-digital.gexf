@@ -151,7 +151,7 @@
           <attvalue for="modularity_class" value="3"></attvalue>
         </attvalues>
         <viz:size value="50.0"></viz:size>
-        <viz:position x="-400" y="-450" z="0.0"></viz:position>
+        <viz:position x="-500" y="-500" z="0.0"></viz:position>
         <viz:color r="236" g="81" b="72"></viz:color>
       </node>
       <node id="18" label="360° Illusion V (2018) Jeppe Hein">
@@ -175,7 +175,7 @@
           <attvalue for="modularity_class" value="6"></attvalue>
         </attvalues>
         <viz:size value="50.0"></viz:size>
-        <viz:position x="-350" y="-350" z="0.0"></viz:position>
+        <viz:position x="-200" y="-450" z="0.0"></viz:position>
         <viz:color r="236" g="81" b="72"></viz:color>
       </node>
       <node id="21" label="Untitled (Golden) (1995) Felix Gonzalez-Torres">
