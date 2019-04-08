@@ -142,7 +142,7 @@
         <attvalues>
           <attvalue for="modularity_class" value="2"></attvalue>
         </attvalues>
-        <viz:size value="50.0"></viz:size>
+        <viz:size value="30.0"></viz:size>
         <viz:position x="-450" y="-200" z="0.0"></viz:position>
         <viz:color r="236" g="81" b="72"></viz:color>
       </node>
@@ -150,7 +150,7 @@
         <attvalues>
           <attvalue for="modularity_class" value="3"></attvalue>
         </attvalues>
-        <viz:size value="50.0"></viz:size>
+        <viz:size value="30.0"></viz:size>
         <viz:position x="-500" y="-500" z="0.0"></viz:position>
         <viz:color r="236" g="81" b="72"></viz:color>
       </node>
@@ -158,7 +158,7 @@
         <attvalues>
           <attvalue for="modularity_class" value="4"></attvalue>
         </attvalues>
-        <viz:size value="50.0"></viz:size>
+        <viz:size value="30.0"></viz:size>
         <viz:position x="-300" y="-700" z="0.0"></viz:position>
         <viz:color r="236" g="81" b="72"></viz:color>
       </node>
@@ -166,7 +166,7 @@
         <attvalues>
           <attvalue for="modularity_class" value="5"></attvalue>
         </attvalues>
-        <viz:size value="50.0"></viz:size>
+        <viz:size value="30.0"></viz:size>
         <viz:position x="-400" y="-400" z="0.0"></viz:position>
         <viz:color r="236" g="81" b="72"></viz:color>
       </node>
@@ -174,7 +174,7 @@
         <attvalues>
           <attvalue for="modularity_class" value="6"></attvalue>
         </attvalues>
-        <viz:size value="50.0"></viz:size>
+        <viz:size value="30.0"></viz:size>
         <viz:position x="-200" y="-200" z="0.0"></viz:position>
         <viz:color r="236" g="81" b="72"></viz:color>
       </node>
@@ -182,7 +182,7 @@
         <attvalues>
           <attvalue for="modularity_class" value="7"></attvalue>
         </attvalues>
-        <viz:size value="50.0"></viz:size>
+        <viz:size value="30.0"></viz:size>
         <viz:position x="-700" y="-250" z="0.0"></viz:position>
         <viz:color r="236" g="81" b="72"></viz:color>
       </node>
@@ -190,7 +190,7 @@
         <attvalues>
           <attvalue for="modularity_class" value="8"></attvalue>
         </attvalues>
-        <viz:size value="50.0"></viz:size>
+        <viz:size value="30.0"></viz:size>
         <viz:position x="-150" y="-750" z="0.0"></viz:position>
         <viz:color r="236" g="81" b="72"></viz:color>
       </node>
@@ -198,7 +198,7 @@
         <attvalues>
           <attvalue for="modularity_class" value="9"></attvalue>
         </attvalues>
-        <viz:size value="50.0"></viz:size>
+        <viz:size value="30.0"></viz:size>
         <viz:position x="100" y="-500" z="0.0"></viz:position>
         <viz:color r="236" g="81" b="72"></viz:color>
       </node>
@@ -206,7 +206,7 @@
         <attvalues>
           <attvalue for="modularity_class" value="10"></attvalue>
         </attvalues>
-        <viz:size value="50.0"></viz:size>
+        <viz:size value="30.0"></viz:size>
         <viz:position x="760" y="410" z="0.0"></viz:position>
         <viz:color r="236" g="81" b="72"></viz:color>
       </node>
@@ -214,7 +214,7 @@
         <attvalues>
           <attvalue for="modularity_class" value="11"></attvalue>
         </attvalues>
-        <viz:size value="50.0"></viz:size>
+        <viz:size value="30.0"></viz:size>
         <viz:position x="650" y="300" z="0.0"></viz:position>
         <viz:color r="236" g="81" b="72"></viz:color>
       </node>
@@ -222,7 +222,7 @@
         <attvalues>
           <attvalue for="modularity_class" value="12"></attvalue>
         </attvalues>
-        <viz:size value="50.0"></viz:size>
+        <viz:size value="30.0"></viz:size>
         <viz:position x="420" y="160" z="0.0"></viz:position>
         <viz:color r="236" g="81" b="72"></viz:color>
       </node>
@@ -230,7 +230,7 @@
         <attvalues>
           <attvalue for="modularity_class" value="13"></attvalue>
         </attvalues>
-        <viz:size value="50.0"></viz:size>
+        <viz:size value="30.0"></viz:size>
         <viz:position x="-480" y="-807" z="0.0"></viz:position>
         <viz:color r="236" g="81" b="72"></viz:color>
       </node>
@@ -238,7 +238,7 @@
         <attvalues>
           <attvalue for="modularity_class" value="14"></attvalue>
         </attvalues>
-        <viz:size value="50.0"></viz:size>
+        <viz:size value="30.0"></viz:size>
         <viz:position x="50" y="400" z="0.0"></viz:position>
         <viz:color r="236" g="81" b="72"></viz:color>
       </node>
@@ -246,7 +246,7 @@
         <attvalues>
           <attvalue for="modularity_class" value="15"></attvalue>
         </attvalues>
-        <viz:size value="50.0"></viz:size>
+        <viz:size value="30.0"></viz:size>
         <viz:position x="700" y="50" z="0.0"></viz:position>
         <viz:color r="236" g="81" b="72"></viz:color>
       </node>
